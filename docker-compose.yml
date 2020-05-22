@@ -62,6 +62,18 @@ services:
       MYSQL_PASSWORD: test
       MYSQL_ROOT_PASSWORD: test
 
+  #wordpress
+   # wordpress:
+   #   image: wordpress
+   #   restart: always
+   #   environment:
+   #     WORDPRESS_DB_HOST: mysql
+   #     WORDPRESS_DB_USER: user
+   #     WORDPRESS_DB_PASSWORD: test
+   #     WORDPRESS_DB_NAME: myDb
+   #   volumes:
+   #     - ./public:/var/www/html/public
+
   #redis
   redis:
     image: redis:alpine

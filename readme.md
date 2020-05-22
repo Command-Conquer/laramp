@@ -6,6 +6,8 @@ MySQL 8
 Nginx
 PHPMyAdmin
 Redis
+GDImage
+OPCache
 
 Configuración standard de Nginx
 

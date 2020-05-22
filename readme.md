@@ -1,7 +1,7 @@
 Docker compose para laravel
 Los archivos para la aplicación se instalan en la raíz y en /var/www/html del contenedor.
 
-PHP 7.4
+PHP 7.4.6
 MySQL 8
 Nginx
 PHPMyAdmin

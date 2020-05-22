@@ -15,6 +15,6 @@ Para acceder en el entorno en Windows 10 tener en cuenta que la dirección es la
 
 Para acceder a PhpMyadmin acceder a http://ipdeldocker:8080 siendo user el usuario y test la contraseña.
 
-Para ver la configuración de php http://ipdeldocker/dameinfo.php
+El directorio public es la raíz del servidor. Para ver la configuración de php http://ipdeldocker/dameinfo.php
 
-Si se quiere utilizar wordpress descomentar la sección correspondiente
+Si se quiere utilizar wordpress descomentar la sección correspondiente, si se quiere utilizar laravel borrar el directorio public antes de instalarlo.
